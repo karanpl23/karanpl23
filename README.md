@@ -1,5 +1,10 @@
-# 💫 About Me:
-Hi, I'm Karan 👋<br><br>🎓 Aspiring Data Scientist | ML & GenAI Enthusiast<br>💡 Interested in Machine Learning, Computer Vision, and RAG Systems<br>📍 India
+# Hi, I'm Karan 👋
+
+🎓 Third-Year Undergraduate at IIT Kanpur
+💻 Aspiring Data Scientist | ML & Generative AI Enthusiast
+🔍 Interested in Machine Learning, Computer Vision, and RAG Systems
+📍 India
+
 
 
 ## 🌐 Socials:
